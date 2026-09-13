@@ -29,7 +29,8 @@
 | 项目 | 说明 |
 |---|---|
 | [apns-es256](https://github.com/EzioAuditoly/apns-es256) | 不依赖 PyJWT 的极简 APNs 客户端：ES256 provider token + HTTP/2 直连 + 生产→沙箱自动回落 |
-| （陆续补） | 3D 网页动作游戏 · BLE 分包库 · 人生仪表盘 DataviewJS 模板 |
+| [黑神话·牛来](https://github.com/EzioAuditoly/black-myth-niu-lai) | 3D 网页动作冒险游戏（Three.js，AI agent 协作产出）｜[在线试玩](https://ezioauditoly.github.io/black-myth-niu-lai/) |
+| （陆续补） | BLE 分包库 · 人生仪表盘 DataviewJS 模板 |
 
 ---
 
